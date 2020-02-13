@@ -107,7 +107,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="s4p-Rw-TMW"/>
                     <connections>
-                        <outlet property="backdropView" destination="fRn-Zl-kkl" id="6gZ-q0-QvY"/>
+                        <outlet property="backdropView" destination="SgR-DP-atM" id="HXs-O4-ena"/>
                         <outlet property="posterView" destination="tIT-np-RJH" id="Qmq-3k-0Le"/>
                         <outlet property="synopsisLabel" destination="3Zo-L0-fkB" id="xs4-ZH-HGL"/>
                         <outlet property="titleLabel" destination="Jlj-EK-Mfd" id="vNa-qO-Kz8"/>

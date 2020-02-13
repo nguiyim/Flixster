@@ -14,7 +14,7 @@ class MovieDetailsViewController: UIViewController {
     var movie: [String:Any]!//dictionsry
     
     @IBOutlet weak var posterView: UIImageView!
-    @IBOutlet var backdropView: UIView!
+    @IBOutlet var backdropView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var synopsisLabel: UILabel!
     
